@@ -11,6 +11,16 @@
 		287ED25E2BD2A2860044E31F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287ED25D2BD2A2860044E31F /* ContentView.swift */; };
 		287ED2602BD2A2870044E31F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 287ED25F2BD2A2870044E31F /* Assets.xcassets */; };
 		287ED2632BD2A2870044E31F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 287ED2622BD2A2870044E31F /* Preview Assets.xcassets */; };
+		287ED26A2BD2A34D0044E31F /* Am.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287ED2692BD2A34D0044E31F /* Am.swift */; };
+		287ED26C2BD2A3530044E31F /* Di.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287ED26B2BD2A3530044E31F /* Di.swift */; };
+		287ED26E2BD2A3590044E31F /* Il.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287ED26D2BD2A3590044E31F /* Il.swift */; };
+		287ED2702BD2A3670044E31F /* Az.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287ED26F2BD2A3670044E31F /* Az.swift */; };
+		287ED2722BD2A37E0044E31F /* My.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287ED2712BD2A37E0044E31F /* My.swift */; };
+		287ED2762BD2A5E60044E31F /* Jo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287ED2752BD2A5E60044E31F /* Jo.swift */; };
+		287ED2782BD2A5EE0044E31F /* Pi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287ED2772BD2A5EE0044E31F /* Pi.swift */; };
+		287ED27A2BD2A6180044E31F /* Ja.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287ED2792BD2A6180044E31F /* Ja.swift */; };
+		287ED27C2BD2A62C0044E31F /* Al.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287ED27B2BD2A62C0044E31F /* Al.swift */; };
+		287ED27E2BD2A6310044E31F /* Ca.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287ED27D2BD2A6310044E31F /* Ca.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +29,16 @@
 		287ED25D2BD2A2860044E31F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		287ED25F2BD2A2870044E31F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		287ED2622BD2A2870044E31F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		287ED2692BD2A34D0044E31F /* Am.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Am.swift; sourceTree = "<group>"; };
+		287ED26B2BD2A3530044E31F /* Di.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Di.swift; sourceTree = "<group>"; };
+		287ED26D2BD2A3590044E31F /* Il.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Il.swift; sourceTree = "<group>"; };
+		287ED26F2BD2A3670044E31F /* Az.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Az.swift; sourceTree = "<group>"; };
+		287ED2712BD2A37E0044E31F /* My.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = My.swift; sourceTree = "<group>"; };
+		287ED2752BD2A5E60044E31F /* Jo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Jo.swift; sourceTree = "<group>"; };
+		287ED2772BD2A5EE0044E31F /* Pi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pi.swift; sourceTree = "<group>"; };
+		287ED2792BD2A6180044E31F /* Ja.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ja.swift; sourceTree = "<group>"; };
+		287ED27B2BD2A62C0044E31F /* Al.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Al.swift; sourceTree = "<group>"; };
+		287ED27D2BD2A6310044E31F /* Ca.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ca.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +73,16 @@
 			children = (
 				287ED25B2BD2A2860044E31F /* ClassGitSampleApp.swift */,
 				287ED25D2BD2A2860044E31F /* ContentView.swift */,
+				287ED2692BD2A34D0044E31F /* Am.swift */,
+				287ED26B2BD2A3530044E31F /* Di.swift */,
+				287ED26D2BD2A3590044E31F /* Il.swift */,
+				287ED26F2BD2A3670044E31F /* Az.swift */,
+				287ED2712BD2A37E0044E31F /* My.swift */,
+				287ED2752BD2A5E60044E31F /* Jo.swift */,
+				287ED2772BD2A5EE0044E31F /* Pi.swift */,
+				287ED2792BD2A6180044E31F /* Ja.swift */,
+				287ED27B2BD2A62C0044E31F /* Al.swift */,
+				287ED27D2BD2A6310044E31F /* Ca.swift */,
 				287ED25F2BD2A2870044E31F /* Assets.xcassets */,
 				287ED2612BD2A2870044E31F /* Preview Content */,
 			);
@@ -137,8 +167,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				287ED26C2BD2A3530044E31F /* Di.swift in Sources */,
 				287ED25E2BD2A2860044E31F /* ContentView.swift in Sources */,
+				287ED2782BD2A5EE0044E31F /* Pi.swift in Sources */,
+				287ED2702BD2A3670044E31F /* Az.swift in Sources */,
+				287ED27A2BD2A6180044E31F /* Ja.swift in Sources */,
+				287ED2722BD2A37E0044E31F /* My.swift in Sources */,
+				287ED27C2BD2A62C0044E31F /* Al.swift in Sources */,
+				287ED2762BD2A5E60044E31F /* Jo.swift in Sources */,
 				287ED25C2BD2A2860044E31F /* ClassGitSampleApp.swift in Sources */,
+				287ED26E2BD2A3590044E31F /* Il.swift in Sources */,
+				287ED26A2BD2A34D0044E31F /* Am.swift in Sources */,
+				287ED27E2BD2A6310044E31F /* Ca.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
